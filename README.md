@@ -22,30 +22,39 @@ To highlight trends that can support preventive care strategies.
 
 # Data Fields Used:
 
-AgeCategory
+• HeartDisease: Whether the individual have heart disease or not. (Target variable)
 
-Gender
+• BMI: Body Mass Index of the individual.
 
-Race
+• Smoking: Whether the individual smokes or not.
 
-PhysicalHealth
+• AlcoholDrinking: Whether the individual consumes alcohol or not.
 
-GenHealth (General Health: Poor to Excellent)
+• Stroke: History of stroke (Yes/No).
 
-BMI (Body Mass Index)
+• PhysicalHealth: Physical health score.
 
-PhysicalActivity
+• MentalHealth: Mental health score.
 
-Sleep Time
+• Sex: Gender of the individual.
 
-AlcoholDrinking
+• AgeCategory: Age category of the individual.
 
-Smoking
+• Race: Ethnicity or race of the individual.
 
-Diabetes, Asthma, Kidney Disease, Skin Cancer, Stroke
+• Diabetic: Diabetes status (Yes/No).
 
-HeartDisease (Target variable)
+• PhysicalActivity: physical activity(Yes/No).
 
+• GenHealth: General health rating.
+
+• SleepTime: Average sleep time.
+
+• Asthma: Asthma status (Yes/No).
+
+• KidneyDisease: Presence or absence of kidney disease.
+
+• SkinCancer: Presence or absence of skin cancer.
 
 # Preprocessing:
 
